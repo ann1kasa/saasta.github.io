@@ -1,0 +1,9 @@
+h1{color:red}
+h2{color:blue}
+p{background-color: gray;color:green;
+border:solid blue 3px}
+body{background-color:rgb(243, 189, 243);}
+img{width: 400;height: 500;}
+.test{color: rgb(3, 209, 123)}
+#headerit{background-color: rgb(158, 231, 194);}
+div{background-color: rgb(224, 224, 182);}
